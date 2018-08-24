@@ -1,0 +1,6 @@
+C:\Users\Grad57\Desktop\My Projects\funWithThreads\funWithThreads\bin\Debug\funWithThreads.exe.config
+C:\Users\Grad57\Desktop\My Projects\funWithThreads\funWithThreads\bin\Debug\funWithThreads.exe
+C:\Users\Grad57\Desktop\My Projects\funWithThreads\funWithThreads\bin\Debug\funWithThreads.pdb
+C:\Users\Grad57\Desktop\My Projects\funWithThreads\funWithThreads\obj\Debug\funWithThreads.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Desktop\My Projects\funWithThreads\funWithThreads\obj\Debug\funWithThreads.exe
+C:\Users\Grad57\Desktop\My Projects\funWithThreads\funWithThreads\obj\Debug\funWithThreads.pdb

@@ -1,0 +1,6 @@
+C:\Users\Grad57\Desktop\My Projects\FunWithAdapter\FunWithAdapter\bin\Debug\FunWithAdapter.exe.config
+C:\Users\Grad57\Desktop\My Projects\FunWithAdapter\FunWithAdapter\bin\Debug\FunWithAdapter.exe
+C:\Users\Grad57\Desktop\My Projects\FunWithAdapter\FunWithAdapter\bin\Debug\FunWithAdapter.pdb
+C:\Users\Grad57\Desktop\My Projects\FunWithAdapter\FunWithAdapter\obj\Debug\FunWithAdapter.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Desktop\My Projects\FunWithAdapter\FunWithAdapter\obj\Debug\FunWithAdapter.exe
+C:\Users\Grad57\Desktop\My Projects\FunWithAdapter\FunWithAdapter\obj\Debug\FunWithAdapter.pdb

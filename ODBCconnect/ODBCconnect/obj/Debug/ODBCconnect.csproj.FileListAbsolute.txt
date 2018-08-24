@@ -1,0 +1,6 @@
+C:\Users\Grad57\Desktop\My Projects\ODBCconnect\ODBCconnect\bin\Debug\ODBCconnect.exe.config
+C:\Users\Grad57\Desktop\My Projects\ODBCconnect\ODBCconnect\bin\Debug\ODBCconnect.exe
+C:\Users\Grad57\Desktop\My Projects\ODBCconnect\ODBCconnect\bin\Debug\ODBCconnect.pdb
+C:\Users\Grad57\Desktop\My Projects\ODBCconnect\ODBCconnect\obj\Debug\ODBCconnect.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Desktop\My Projects\ODBCconnect\ODBCconnect\obj\Debug\ODBCconnect.exe
+C:\Users\Grad57\Desktop\My Projects\ODBCconnect\ODBCconnect\obj\Debug\ODBCconnect.pdb

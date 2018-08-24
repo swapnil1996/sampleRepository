@@ -1,0 +1,10 @@
+C:\Users\Grad57\Desktop\My Projects\EntityFrameworkClassDemo\EntityFrameworkClassDemo\bin\Debug\EntityFrameworkClassDemo.exe.config
+C:\Users\Grad57\Desktop\My Projects\EntityFrameworkClassDemo\EntityFrameworkClassDemo\bin\Debug\EntityFrameworkClassDemo.exe
+C:\Users\Grad57\Desktop\My Projects\EntityFrameworkClassDemo\EntityFrameworkClassDemo\bin\Debug\EntityFrameworkClassDemo.pdb
+C:\Users\Grad57\Desktop\My Projects\EntityFrameworkClassDemo\EntityFrameworkClassDemo\bin\Debug\EntityFramework.dll
+C:\Users\Grad57\Desktop\My Projects\EntityFrameworkClassDemo\EntityFrameworkClassDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Grad57\Desktop\My Projects\EntityFrameworkClassDemo\EntityFrameworkClassDemo\bin\Debug\EntityFramework.xml
+C:\Users\Grad57\Desktop\My Projects\EntityFrameworkClassDemo\EntityFrameworkClassDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Grad57\Desktop\My Projects\EntityFrameworkClassDemo\EntityFrameworkClassDemo\obj\Debug\EntityFrameworkClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Desktop\My Projects\EntityFrameworkClassDemo\EntityFrameworkClassDemo\obj\Debug\EntityFrameworkClassDemo.exe
+C:\Users\Grad57\Desktop\My Projects\EntityFrameworkClassDemo\EntityFrameworkClassDemo\obj\Debug\EntityFrameworkClassDemo.pdb
